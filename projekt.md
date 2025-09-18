@@ -6,4 +6,4 @@
 print("Hello Projekt!")
 ```
 
-[IMPORTANT](https://play.tetris.com/)
+![IMPORTANT](https://play.tetris.com/)
