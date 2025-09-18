@@ -11,4 +11,4 @@
 |2022|wife gone|:(|
 |2023|ffff|...|
 
-[pog](https://i.ytimg.com/vi/9KsWzfTT1DE/maxresdefault.jpg)
+![pog](https://i.ytimg.com/vi/9KsWzfTT1DE/maxresdefault.jpg)
